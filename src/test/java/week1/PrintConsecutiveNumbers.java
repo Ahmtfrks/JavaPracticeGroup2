@@ -13,6 +13,7 @@ public class PrintConsecutiveNumbers {
             throw new RuntimeException ("You enter invalid number "+ N);
             //System.exit (1);
 
+
         } else {
             for (int i = 1; i <= N; i++) {
                 StringBuilder result = new StringBuilder();
