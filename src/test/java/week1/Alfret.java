@@ -6,7 +6,7 @@ public class Alfret {
 
         System.out.println("This is from alfret");
 
-        System.out.println("Hi Ahmet");
+        System.out.println("Hello Ahmet");
 
     }
 
