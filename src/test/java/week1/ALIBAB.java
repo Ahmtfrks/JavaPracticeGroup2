@@ -6,5 +6,10 @@ public class ALIBAB {
 
     public static void main(String[] args) {
         System.out.println("fgdkljhdkslhf");
+        System.out.println("fgdkljhdkslhf");
+        System.out.println("fgdkljhdkslhf");
+        System.out.println("fgdkljhdkslhf");
+        System.out.println("fgdkljhdkslhf");
+        System.out.println("fgdkljhdkslhf");
     }
 }
