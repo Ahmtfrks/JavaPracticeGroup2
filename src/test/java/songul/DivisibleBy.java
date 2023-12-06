@@ -5,7 +5,9 @@ import java.util.Scanner;
 public class DivisibleBy {
     public static void main(String[] args) {
 
-
+        String divBy15 ="";
+        String divBy5 = "";
+        String divBy3 = "";
 
 
         Scanner input= new Scanner(System.in);
